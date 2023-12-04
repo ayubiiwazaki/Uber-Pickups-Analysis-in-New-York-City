@@ -45,6 +45,7 @@ The project is structured into the following sections:
 
 ## Data Source
 The project uses Uber pickup data specific to New York City. Ensure the data file is correctly placed or configured.
+here's the link dataset : https://drive.google.com/drive/folders/1p9n_VDPOTiIPuobSBzH96HJayMk1Ku3b?usp=drive_link
 
 ## Conclusion
 This project offers a detailed analysis of Uber pickups in New York City, shedding light on temporal and spatial trends.
